@@ -116,19 +116,19 @@ hr {
 
 /* MES Expériences */
 
-#Expériences span {
+#Experiences span {
     padding: 22px;
     color: #b61924;
     font-size: 1.1em;
     font-weight: bold;
 }
 
-#Expériences .card {
+#Experiences .card {
     border-top: 15px solid #ffcc5c;
     border-bottom: 50px solid #ffcc5c;
 }
 
-#Expériences .card h5 {
+#Experiences .card h5 {
     position: absolute;
     bottom: -50px;
     text-transform: uppercase;
